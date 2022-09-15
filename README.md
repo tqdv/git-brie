@@ -4,7 +4,7 @@
 
 ```
 $ git branch --rename feat2 feature-2
-[git-brie] $ git --move feat2 feature-2
+[git-brie] $ git branch --move feat2 feature-2
 ```
 
 ## Description
